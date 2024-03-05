@@ -26,4 +26,6 @@ Implemented Features:
 <br>
 
 ## Note : 
+    Django Project - todolist
+    Django App - base
     Testcases are written for models and views.
