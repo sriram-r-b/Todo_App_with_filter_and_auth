@@ -3,7 +3,7 @@
 To Do list app with User Registration, Login, Search and full Create Read Update and DELETE functionality.
 <br>
 To RUN:
-<br?
+<br>
 run "python manage.py migrate" and then run "python manage.py runserver"
 
 Implemented Features:
