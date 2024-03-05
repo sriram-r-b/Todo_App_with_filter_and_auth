@@ -1,4 +1,4 @@
-# Django-To-Do-list-with-user-authentication-and-filtering
+# Django ToDo App with user authentication and filtering
 
 To Do list app with User Registration, Login, Search and full Create Read Update and DELETE functionality.
 To RUN:
